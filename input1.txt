@@ -1,0 +1,39 @@
+3
+5 3
+F F F
+R F F
+F F F
+F F F
+F F F
+
+5 6
+R F F R R F 
+F F F F F F
+R R F F F F
+F F F F F F 
+F F F F F F
+
+32 20
+F F F F F F F F F F F F F F F F F F F F
+F R F R F F F F F F F F F F F F F F F F
+F F F F F F F F F F F R F R F F F F F F
+F F F F F F R F R F F F F F F F F F F F
+F F F F F F R F R F F R F R F F F F F F
+F F F F F F R F R F F F F F F F R F R F
+F F F F F F F F F F F F F F F F F F F F
+F F F F F F R F R F F F F F F F F F F F
+F F F F F F F F F F F F F F F F F F F F
+F F F F F F F F R F F F F F F F F F F F
+F F F F F F F F F F F F F F F F F F F F
+F R F R F F F F F F F F F F F F F F F F
+F R F R F F F F F F F F F F F F F F F F
+F F F F F F R F R F F F F F F F R F R F 
+F R F R F F F F F F F F F F F F F F F F
+F F F F F F R F R F F F F F F F F F F F
+F F F F F F R F R F F F F F F F F F F F
+F F F F F F F F F F F F F F F F F F F F
+F F F F F F R F R F F F F F F F F F F F
+F F F F F F F F F F F F F F F F F F F F
+F F F F F F F F R F F F F F F F F F F F
+F F F F F F F F F F F F F F F F F F F F
+F F F F F F F F F F F F F F F F F F F F
